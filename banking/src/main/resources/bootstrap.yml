@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: banking
+management:
+  security:
+    enabled: false
